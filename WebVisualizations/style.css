@@ -1,0 +1,80 @@
+#body_text {
+    color: darkslategray;
+    font-family: "Helvetica";
+    font-size: 20px;
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+}
+  
+#header_text {
+    color: purple;
+    font-family: "Helvetica";
+    font-size: 35px;
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+}
+
+#container_background_white {
+    background-color: white;
+    padding: 2%;
+    vertical-align: top;
+}
+
+#container_background {
+    background-color: lightgray;
+}
+
+#container_backgroundpurple {
+    color: lightcoral;
+    font-family: "Helvetica";
+    background-color: white;
+    padding: 1%;
+}
+
+#image {
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+    vertical-align: top;
+}
+#image_with_border {
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+    vertical-align: top;
+    border: 2px solid purple;
+}
+#navbar {
+    background-color: purple;
+    color: white;
+}
+
+#bottom_bar {
+    background-color: purple;
+    color: white; 
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+#small_navbar {
+    background-color: purple;
+}
+
+#sub_dropdown {
+    color: purple;
+}
+
+
+#wrap_table {
+    word-wrap:break-word;
+    word-break:break-all;
+    font-size: 12px;
+}
